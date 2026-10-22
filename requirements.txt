@@ -14,7 +14,7 @@ numpy==2.3.4; python_version >= "3.11"
 pillow==11.3.0
 proglog==0.1.12
 PyAudio==0.2.14; python_version < "3.14"
-pypiwin32==223
+
 python-dotenv==1.2.1
 pyttsx3==2.99
 pywin32==312
